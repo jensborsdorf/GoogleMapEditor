@@ -2,7 +2,7 @@
     "description": "Google Map Inspector Editors for Neos CMS",
     "type": "neos-package",
     "license": "MIT",
-    "name": "ttree/googlemapeditor",
+    "name": "jensborsdorf/googlemapeditor",
     "require": {
         "neos/neos-ui": "^8.0"
     },
